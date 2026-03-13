@@ -1,0 +1,12 @@
+# Light - Photo Editor
+# Requirements for Light.py
+# By Mohammed Boulifa
+
+# Image processing — PIL.Image, ImageTk, ImageFilter, ImageEnhance, ImageOps
+Pillow>=10.0.0
+
+# Numerical operations — used for image array manipulation
+numpy>=1.24.0
+
+# Note: tkinter and ctypes are part of the Python standard library
+# and do not need to be listed here.
