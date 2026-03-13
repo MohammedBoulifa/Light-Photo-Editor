@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+build/
+dist/
+Installer_Output/
+*.spec.bak
+.env
